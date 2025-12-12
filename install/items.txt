@@ -1,0 +1,51 @@
+['oldbox'] = {
+    name = 'oldbox',
+    label = 'Empty Gift Box',
+    weight = 100,
+    type = 'item',
+    image = 'oldbox.png',
+    unique = false,
+    useable = true,
+    shouldClose = true,
+    combinable = nil,
+    description = 'An empty box perfect for wrapping gifts'
+},
+
+['wrapping_paper'] = {
+    name = 'wrapping_paper',
+    label = 'Wrapping Paper',
+    weight = 50,
+    type = 'item',
+    image = 'wrapping_paper.png',
+    unique = false,
+    useable = true,
+    shouldClose = true,
+    combinable = nil,
+    description = 'Colorful paper used to wrap presents'
+},
+
+['present'] = {
+    name = 'present',
+    label = 'Wrapped Present',
+    weight = 200,
+    type = 'item',
+    image = 'present.png',
+    unique = true,
+    useable = true,
+    shouldClose = true,
+    combinable = nil,
+    description = 'A beautifully wrapped present'
+},
+
+['gift_tag'] = {
+    name = 'gift_tag',
+    label = 'Gift Tag',
+    weight = 10,
+    type = 'item',
+    image = 'gift_tag.png',
+    unique = true,
+    useable = true,
+    shouldClose = true,
+    combinable = nil,
+    description = 'A festive gift tag with a special message'
+},
